@@ -1,6 +1,6 @@
 # Little Lemon Booking Website
 
 ## Project Description
-This website was the culmination of the Front-End Development Track for the Meta Front End Developer Certificate.
+The final test for the Meta Front End Developer Certificate. Create a booking table for the Little Lemon website.
 
-This was created with React Components to demonstrate an understanding of utilizing React for creating the website.
+This project showcases the use of all of the elements we have learned throughout the course including React, Javascript, HTML, and CSS.
